@@ -1,0 +1,5 @@
+hobbies: writing,playing,travling,reading books;
+skills:
+cooking,enjoying life
+trvelled:
+many places which are very beatiful.
